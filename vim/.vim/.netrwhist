@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/pedroshoji/Desktop/UFABC/2018.3/Programação Estruturada'
+let g:netrw_dirhist_2='/Users/pedroshoji/Desktop/UFABC/2018.3/Programação Estruturada/Teoria/projeto/parte2'
+let g:netrw_dirhist_1='/Users/pedroshoji/Desktop/UFABC/2018.3/Programação Estruturada/Teoria/projeto/parte2'
+let g:netrw_dirhist_0='/Users/pedroshoji/Desktop/UFABC/2018.3/Programação Estruturada/Teoria/projeto'
+let g:netrw_dirhist_9='/Users/pedroshoji/Desktop/UFABC/2018.3/Programação Estruturada/Teoria'
+let g:netrw_dirhist_8='/Users/pedroshoji/Desktop/UFABC/2018.3/Programação Estruturada'
+let g:netrw_dirhist_7='/Users/pedroshoji/Desktop/UFABC/2018.3'
+let g:netrw_dirhist_6='/Users/pedroshoji/Desktop/UFABC'
+let g:netrw_dirhist_5='/Users/pedroshoji/Desktop/UFABC/2019.1'
+let g:netrw_dirhist_4='/Users/pedroshoji/Desktop/UFABC'
