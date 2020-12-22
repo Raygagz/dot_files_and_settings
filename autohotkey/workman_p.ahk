@@ -61,5 +61,5 @@ $+0::send 0
 *+Space::_
 *CapsLock::Backspace
 LShift & CapsLock::send {Esc}
-*Esc::CapsLock
+*Esc::Enter
 *RControl::CapsLock
