@@ -1,0 +1,52 @@
+unmap <c-e>
+unmap <c-y>
+
+# Scrolling Workman
+# h <-> y
+unmap h
+unmap H
+unmap zH
+unmap yy
+unmap yt
+unmap yf
+
+map y scrollLeft
+map Y goBack
+map zY scrollToLeft
+
+map hh copyCurrentUrl
+map ht duplicateTab
+map hf LinkHints.activateModeToCopyLinkUrl
+
+# j <-> n
+unmap j
+unmap J
+unmap n
+unmap N
+
+map n scrollDown
+map N previousTab
+
+map j performFind
+map J performBackwardsFind
+
+# k <-> e
+unmap k
+unmap K
+
+map e scrollUp
+map E nextTab
+
+# l <-> o
+unmap l
+unmap L
+unmap zL
+unmap o
+unmap O
+
+map o scrollRight
+map O goForward
+map zO scrollToRight
+
+map l Vomnibar.activate
+map L Vomnibar.activateInNewTab
