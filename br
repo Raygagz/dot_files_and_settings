@@ -317,6 +317,7 @@ partial alphanumeric_keys
 //
 // Original concept: https://workmanlayout.org/
 // In case you screw something up: https://askubuntu.com/questions/846702/how-to-reset-xkb
+// In case you really screwed something up and now Pop OS won't boot lol: https://pop-planet.info/forums/threads/black-screen-after-reboot.503/#post-2321
 // Key names: http://xahlee.info/linux/linux_show_keycode_keysym.html
 // Key codes: https://renenyffenegger.ch/notes/Linux/fhs/usr/share/X11/xkb/keycodes/index
 // https://askubuntu.com/questions/510024/what-are-the-steps-needed-to-create-new-keyboard-layout-on-ubuntu
