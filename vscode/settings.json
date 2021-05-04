@@ -380,6 +380,16 @@
         "**/.DS_Store": true,
         "**/__pycache__": true,
         "**/venv/": true,
-        "**/.vscode": true
-    }
+        "**/.vscode": true,
+        "**/*.db": true,
+        "**/.gitignore": true,
+    },
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ]
 }
